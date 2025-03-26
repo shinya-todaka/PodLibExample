@@ -1,0 +1,22 @@
+{
+  "name": "PodLibExample",
+  "version": "0.1.0",
+  "summary": "A short description of PodLibExample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shinya-todaka/PodLibExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shinya-todaka": "tdk0105.strawberry@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/shinya-todaka/PodLibExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodLibExample/Classes/**/*"
+}
